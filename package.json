@@ -1,0 +1,26 @@
+{
+  "name": "memorizemusic",
+  "version": "1.0.0",
+  "description": "Musical Instrument game built in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kayla312/MemorizeMusic.git"
+  },
+  "keywords": [
+    "React",
+    "Game",
+    "Music",
+    "Instruments",
+    "Single-Page"
+  ],
+  "author": "Kayla Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kayla312/MemorizeMusic/issues"
+  },
+  "homepage": "https://github.com/Kayla312/MemorizeMusic#readme"
+}
